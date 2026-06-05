@@ -1,0 +1,4 @@
+display_name: Agent Scaffolder
+short_description: "Define and blueprint an AI agent through 6-phase guided interview — produces a structured, platform-agnostic agent definition document."
+category: Agent Building
+default_prompt: "I want to design an AI agent. Can you help me define it step by step?"
